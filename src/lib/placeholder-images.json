@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A person working out in a modern gym",
+      "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxneW0lMjB3b3Jrb3V0fGVufDB8fHx8MTc2MDg2OTUyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gym workout"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for a user",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjA4MjUzNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "trainer-avatar-1",
+      "description": "Avatar for a trainer",
+      "imageUrl": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmaXRuZXNzJTIwaW5zdHJ1Y3RvcnxlbnwwfHx8fDE3NjA4NDA2OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness instructor"
+    },
+    {
+      "id": "workout-video-1",
+      "description": "Thumbnail for a workout video about deadlifts",
+      "imageUrl": "https://images.unsplash.com/photo-1545612036-2872840642dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZWFkbGlmdCUyMGV4ZXJjaXNlfGVufDB8fHx8MTc2MDg3NjYwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "deadlift exercise"
+    },
+    {
+      "id": "workout-video-2",
+      "description": "Thumbnail for a workout video about squats",
+      "imageUrl": "https://images.unsplash.com/photo-1637714619771-50f333a6066b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzcXVhdCUyMGV4ZXJjaXNlfGVufDB8fHx8MTc2MDg3NjYxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "squat exercise"
+    },
+    {
+      "id": "diet-plan-1",
+      "description": "Image for a diet plan about healthy eating",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NjA4NDI0ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "feature-1",
+      "description": "Icon representing AI suggestions",
+      "imageUrl": "https://images.unsplash.com/photo-1662558274454-4b1fc87719d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyb2JvdCUyMGJyYWlufGVufDB8fHx8MTc2MDg3NTY2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot brain"
+    },
+    {
+      "id": "feature-2",
+      "description": "Icon representing progress tracking",
+      "imageUrl": "https://images.unsplash.com/photo-1730382624709-81e52dd294d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaGFydCUyMGdyYXBofGVufDB8fHx8MTc2MDgyNjM5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chart graph"
+    },
+    {
+      "id": "feature-3",
+      "description": "Icon representing personalized plans",
+      "imageUrl": "https://images.unsplash.com/photo-1692158961562-cb06d93fb63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGVja2xpc3QlMjBkb2N1bWVudHxlbnwwfHx8fDE3NjA4NDM2NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "checklist document"
+    }
+  ]
 }
